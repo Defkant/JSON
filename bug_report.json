@@ -1,10 +1,10 @@
 {
-"title": "Заголовок ошибки",
-"summary": "Описание ошибки",
-"Precondition": "Начальные условия",
-"Steps_To_Reproduce": "Шаги воспроизведения",
-"Expected_Result": "Ожидаемый результат",
-"Actual_Result": "Фактический результат",
-"Attachments": "Вложения",
-  
+	"title": "Заголовок ошибки",
+	"summary": "Описание ошибки",
+	"Precondition": "Начальные условия",
+	"Steps_To_Reproduce": "Шаги воспроизведения",
+	"Expected_Result": "Ожидаемый результат",
+	"Actual_Result": "Фактический результат",
+	"Attachments": "Вложения"
+
 }
