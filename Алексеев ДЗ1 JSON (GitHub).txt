@@ -1,6 +1,7 @@
 JSON
  1. Создать внешний репозиторий c названием JSON. == Git Hub /Repositories/new/Create a new repository/указываем название "JSON"/кнопка Create repository 
- 2. Клонировать репозиторий JSON на локальный компьютер. == запускаем Git Bash/git clone https://github.com/Defkant/JSON.git
+ 2. Клонировать репозиторий JSON на локальный компьютер.
+ == на git hub заходим в репозиторий JSON/нажимаем кнопку code/копируем ссылку репозитория/запускаем Git Bash/git clone https://github.com/Defkant/JSON.git
  3. Внутри локального JSON создать файл “new.json”. == touch new.json
  4. Добавить файл под гит. == git add new.json
  5. Закоммитить файл. == git commit -m "описание действия"
